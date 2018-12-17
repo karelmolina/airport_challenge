@@ -14,4 +14,7 @@ class Airport
   def stormy?
     @weather.stormy?
   end
+
+  def take_off plane
+  end
 end
